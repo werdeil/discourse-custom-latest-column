@@ -4,7 +4,7 @@
   "license_url": "https://github.com/werdeil/discourse-latest-custom-column/blob/master/LICENSE",
   "about_url": null,
   "authors": "werdeil",
-  "theme_version": null,
+  "theme_version": 0.1,
   "minimum_discourse_version": null, 
   "maximum_discourse_version": null
 }
