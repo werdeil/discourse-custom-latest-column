@@ -1,0 +1,7 @@
+show_views_column:
+  default: false
+  type: bool
+
+show_likes_column:
+  default: true
+  type: bool
