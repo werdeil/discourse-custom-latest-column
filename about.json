@@ -1,9 +1,9 @@
 {
-  "name": "Like Column",
+  "name": "Custom Latest Column",
   "component": true,
   "license_url": "https://github.com/discourse/discourse-like-column/blob/master/LICENSE",
   "about_url": null,
-  "authors": "Dax",
+  "authors": "werdeil",
   "theme_version": null,
   "minimum_discourse_version": null, 
   "maximum_discourse_version": null
