@@ -1,7 +1,7 @@
 {
-  "name": "Custom Latest Column",
+  "name": "Latest Custom Column",
   "component": true,
-  "license_url": "https://github.com/discourse/discourse-like-column/blob/master/LICENSE",
+  "license_url": "https://github.com/werdeil/discourse-latest-custom-column/blob/master/LICENSE",
   "about_url": null,
   "authors": "werdeil",
   "theme_version": null,

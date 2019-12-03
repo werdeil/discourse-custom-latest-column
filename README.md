@@ -1,5 +1,4 @@
-# Add Like column
+# Customize the visible columns
 
-Add the Like column to the **/latest** homepage of your Discourse site
+Customize the visible columns to the **/latest** homepage of your Discourse site
 
-For reference see {link}
