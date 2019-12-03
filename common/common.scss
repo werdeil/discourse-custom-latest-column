@@ -1,3 +1,1 @@
-@media (not $show_views_column) {
-.topic-list .views {display: none};
-}
+.topic-list .views {display: show_views_column};
