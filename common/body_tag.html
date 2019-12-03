@@ -1,7 +1,7 @@
-<script>
+<script type="text/discourse-plugin" version="0.1">
 
 var TopicListComponent = require('discourse/components/topic-list').default;
 TopicListComponent.reopen({
-    showLikes: $show_likes_column
+    showLikes: settings.show_likes_column
 });
 </script>
