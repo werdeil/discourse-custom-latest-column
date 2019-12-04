@@ -1,3 +1,11 @@
 @if $show_views_column == "false" {
     .topic-list .views {display: none};
 }
+
+@if $show_replies_column == "false" {
+    .topic-list .posts {display: none};
+}
+
+@if $show_activity_column == "false" {
+    .topic-list .activity {display: none};
+}

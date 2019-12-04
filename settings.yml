@@ -5,3 +5,11 @@ show_views_column:
 show_likes_column:
   default: true
   type: bool
+
+show_replies_column:
+  default: true
+  type: bool
+
+show_activity_column:
+  default: true
+  type: bool
