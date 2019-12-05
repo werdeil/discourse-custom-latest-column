@@ -1,5 +1,6 @@
+@import "common/foundation/variables";
+
 @if $show_categories_column_on_desktop == "true" {
-    @import "common/foundation/variables";
     .link-bottom-line {
         font-size: unset;
     }
