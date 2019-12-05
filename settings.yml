@@ -13,3 +13,7 @@ show_replies_column:
 show_activity_column:
   default: true
   type: bool
+
+show_categories_column_on_desktop:
+  default: false
+  type: bool

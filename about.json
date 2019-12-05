@@ -2,9 +2,9 @@
   "name": "Latest Custom Column",
   "component": true,
   "license_url": "https://github.com/werdeil/discourse-latest-custom-column/blob/master/LICENSE",
-  "about_url": null,
+  "about_url": "https://github.com/werdeil/discourse-latest-custom-column/blob/master/README.md",
   "authors": "werdeil",
-  "theme_version": 0.1,
+  "theme_version": 0.2,
   "minimum_discourse_version": null, 
   "maximum_discourse_version": null
 }
